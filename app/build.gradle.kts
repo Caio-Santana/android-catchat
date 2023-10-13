@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.sam.catchat"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.sam.catchat"
